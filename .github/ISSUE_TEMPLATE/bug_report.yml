@@ -1,0 +1,35 @@
+name: Example bug report
+description: Report a problem with an example or instructions
+title: "[Bug]: "
+body:
+  - type: input
+    id: example
+    attributes:
+      label: Example or documentation page
+      placeholder: "CubeExample or README section"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include commands and sanitized output.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Java, Maven, and graphical desktop availability

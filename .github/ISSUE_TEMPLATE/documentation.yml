@@ -1,0 +1,20 @@
+name: Documentation improvement
+description: Suggest an improvement to a guide or example
+title: "[Docs]: "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or example
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is unclear or missing?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
