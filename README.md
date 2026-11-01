@@ -56,10 +56,6 @@ This repository already includes the dependency. Maven downloads the published l
 
 See [Runnable Examples](docs/examples.md) for the command, expected result, and concept behind each example.
 
-## API documentation
-
-The examples use `Vector3`, `Matrix4`, `Camera3D`, `Wireframe3D`, and `ScenePanel3D` from the published Simple3D4J library. Consult the [published artifact](https://central.sonatype.com/artifact/com.javiergs/simple3d4j/0.1.0) for version and dependency information. A browsable JavaDoc link will be added when it is publicly hosted.
-
 ## Troubleshooting
 
 - **Wrong Java version:** Run `mvn -version` and confirm Maven uses Java 21 or later.
