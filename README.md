@@ -45,4 +45,4 @@ Replace `VectorExample` with any class above. The last four examples open Swing 
 
 `Vector3` models positions and directions. `Matrix4` transforms points. `Camera3D` projects points onto the screen. `Wireframe3D` contains line segments, while `ScenePanel3D` displays them interactively.
 
-Licensed under Apache 2.0. See [LICENSE](LICENSE).
+The examples and documentation in this repository are licensed under MIT. See [LICENSE](LICENSE).
