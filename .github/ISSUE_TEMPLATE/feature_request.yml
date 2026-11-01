@@ -1,0 +1,27 @@
+name: New example request
+description: Suggest a learning exercise using the published Simple3D4J API
+title: "[Example]: "
+body:
+  - type: input
+    id: goal
+    attributes:
+      label: Learning goal
+      placeholder: "Visualize matrix rotation or explain perspective projection"
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Proposed example and expected output
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: How can a student verify it works?
+    validations:
+      required: true
+  - type: textarea
+    id: prerequisites
+    attributes:
+      label: Prerequisites or platform limitations
