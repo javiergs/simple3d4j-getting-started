@@ -67,6 +67,3 @@ The examples use `Vector3`, `Matrix4`, `Camera3D`, `Wireframe3D`, and `ScenePane
 - **No graphical window:** Run Swing examples on a machine with a desktop session; console examples also work without one.
 - **Window is empty or the object is difficult to see:** Try dragging to orbit or scrolling to zoom; camera orientation and clipping affect what is visible.
 
-## License
-
-The examples and documentation in this repository are licensed under **MIT**. See [LICENSE](LICENSE). The separately distributed library may have different licensing terms.
