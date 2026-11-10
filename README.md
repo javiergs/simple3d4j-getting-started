@@ -63,3 +63,8 @@ See [Runnable Examples](docs/examples.md) for the command, expected result, and 
 - **No graphical window:** Run Swing examples on a machine with a desktop session; console examples also work without one.
 - **Window is empty or the object is difficult to see:** Try dragging to orbit or scrolling to zoom; camera orientation and clipping affect what is visible.
 
+## Feedback
+
+[Open an issue](https://github.com/javiergs/simple3d4j-getting-started/issues/new/choose) to report an example bug, suggest a feature, or flag unclear documentation.
+
+For bugs, include the example or guide section, the command you ran, and what you expected and observed. Include your operating system and Java and Maven versions when relevant. For rendering problems, include whether a graphical desktop was available.
