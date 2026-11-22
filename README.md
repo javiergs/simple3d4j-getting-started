@@ -1,8 +1,8 @@
 # Getting Started with Simple3D4J
 
-![Java 21+](https://img.shields.io/badge/Java-21%2B-blue)
-![Version 0.1.0](https://img.shields.io/badge/version-0.1.0-green)
-[![Java CI](https://github.com/javiergs/simple3d4j-getting-started/actions/workflows/ci.yml/badge.svg)](https://github.com/javiergs/simple3d4j-getting-started/actions/workflows/ci.yml)
+[![Java 21+](https://img.shields.io/badge/Java-21%2B-blue)](https://adoptium.net/temurin/releases/?version=21)
+[![API version 0.1.0](https://img.shields.io/badge/API-0.1.0-green)](https://central.sonatype.com/artifact/com.javiergs/simple3d4j/0.1.0)
+[![Java CI](https://github.com/javiergs/simple3d4j-getting-started/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/javiergs/simple3d4j-getting-started/actions/workflows/ci.yml)
 
 **Simple3D4J** is a lightweight Java library for 3D mathematics, perspective projection, and software-based wireframe visualization using Swing and Graphics2D. This repository introduces its public API through independent, runnable examples. You do not need a robot, graphics card-specific API, or access to the library's source code.
 
